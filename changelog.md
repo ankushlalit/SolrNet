@@ -1,5 +1,4 @@
-This is # Change Log
-
+This is testdoc
 ## 1.0.8
 - Microsoft Dependency Injection update: use AutoSolrConnection, and allow tweaking HttpClient on service configuration. #409
 - Added ability to force the usage of the reflected type when adding a property mapping #407 (@davewut)
